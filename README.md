@@ -6,8 +6,8 @@ if you git wrong things and push origin --- error
 
 you need to git revert origin/master to go back to the last time you successfully push git submit
 
-- ```git reset --hard 2659f94459be19e7f2bf489d6d148bec30a08094```
-- ```git push origin --force```
+- locally reset to before, ```git reset --hard 2659f94459be19e7f2bf489d6d148bec30a08094```
+- push previous local to github again by force, ```git push origin --force```
 
 $```git log```as below
 
