@@ -26,3 +26,7 @@ Date:   Tue May 15 16:37:14 2018 +0900
 
     subplot function
 ```
+ 
+- ```vim .gitignore```
+- ```data/sessions.csv```, ```./data/sessions.csv```is wrong
+- ```:wq```
