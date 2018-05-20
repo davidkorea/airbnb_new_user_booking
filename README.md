@@ -11,7 +11,7 @@ you need to go back to the last time you successfully push git submit
 - push previous local to github again by force
     ```git push origin --force```
 
-$```git log```as below:
+$```git log```as below
 
 ```
 commit f7c406475e5e9fa2186e97376e4bce7e48594d3a
