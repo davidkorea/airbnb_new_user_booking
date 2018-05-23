@@ -1,7 +1,8 @@
 data/sessions.csv
 data/Airbnb_xtrain_v2.csv
 data/Airbnb_xtest_v2.csv
-data/Airbnb_ytrain_v2.csv
+data/Airbnb_ytrain_name_v2.csv
+data/Airbnb_ytrain_number_v2.csv
 
 
 # Byte-compiled / optimized / DLL files
